@@ -1,0 +1,4 @@
+#Sat Feb 12 20:05:56 IST 2022
+base.0=/Users/tuskmelon/Documents/bala/fitnessApp/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
